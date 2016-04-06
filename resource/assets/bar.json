@@ -1,0 +1,4 @@
+{"file":"bar.png","frames":{
+"pause":{"x":366,"y":1,"w":49,"h":49,"offX":0,"offY":0,"sourceW":49,"sourceH":49},
+"bar":{"x":1,"y":1,"w":363,"h":63,"offX":0,"offY":0,"sourceW":363,"sourceH":63},
+"unitLock":{"x":366,"y":52,"w":27,"h":36,"offX":10,"offY":5,"sourceW":46,"sourceH":46}}}

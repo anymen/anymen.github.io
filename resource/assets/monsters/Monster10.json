@@ -2,11 +2,11 @@
 	"Monster10":{
 		"frameRate":30,
 		"labels":[
-			{"name":"walking","frame":1}
-			,{"name":"walkingUp","frame":26}
-			,{"name":"walkingDown","frame":50}
-			,{"name":"idle","frame":73}
-			,{"name":"fighting","frame":74}
+			{"name":"walking","frame":1,"end":25}
+			,{"name":"walkingUp","frame":26,"end":49}
+			,{"name":"walkingDown","frame":50,"end":72}
+			,{"name":"idle","frame":73,"end":73}
+			,{"name":"fighting","frame":74,"end":102}
 			,{"name":"dead","frame":103}
 			
 			],

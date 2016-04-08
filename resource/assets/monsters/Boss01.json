@@ -2,11 +2,11 @@
 	"Boss01":{
 		"frameRate":30,
 		"labels":[
-			{"name":"running","frame":1}
-			,{"name":"walkingDown","frame":25}
-			,{"name":"walkingUp","frame":49}
-			,{"name":"idle","frame":73}
-			,{"name":"fighting","frame":74}
+			{"name":"running","frame":1,"end":24}
+			,{"name":"walkingDown","frame":25,"end":48}
+			,{"name":"walkingUp","frame":49,"end":72}
+			,{"name":"idle","frame":73,"end":73}
+			,{"name":"fighting","frame":74,"end":99}
 			,{"name":"dead","frame":100}
 			
 			],

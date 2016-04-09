@@ -13,7 +13,7 @@
 		"name":"maps"
 	},
 	{
-		"keys":"buildTooljson,Base02,Base03,uiinfo,mb,victory,lose,tryagain,quitgame,NumFont,NumFont2,NumFont3,lifeBarBg,lifeBar,stone1png,stone1json,NumFont4_fnt,bar_json,attack_png",
+		"keys":"buildTooljson,Base02,Base03,uiinfo,mb,victory,lose,tryagain,quitgame,NumFont,NumFont2,NumFont3,lifeBarBg,lifeBar,stone1png,stone1json,NumFont4_fnt,bar_json,attack_png,battle_fnt",
 		"name":"uiLoad"
 	},
 	{
@@ -21,7 +21,7 @@
 		"name":"monsterLoad"
 	},
 	{
-		"keys":"towersjson,ArrowShooter01png,ArrowShooter01json,ArrowShooter02png,ArrowShooter02json,ArrowShooter031png,ArrowShooter031json,ArrowShooter032png,ArrowShooter032json,Arrow01png,Arrow01json,Arrow032png,Arrow032json,MagicBullet010203png,MagicBullet010203json,MagicWizard010203png,MagicWizard010203json,Explo01png,Explo01json,Explo02png,Explo02json,Explo031png,Explo031json,ExploTower01json,ExploTower01png,ExploTower02json,ExploTower02png,ExploTower031json,ExploTower031png,ZenYuan1json,ZenYuan1png,ZenYuan2json,ZenYuan2png,human1-1png,human1-1json,human1-2png,human1-2json,human2-1_json,human2-1_png,human2-2_json,human2-2_png,human2-3_json,human2-3_png,human3-1_json,human3-1_png,human3-2_json,human3-2_png,h2001_json,h2001_png,h1001_json,h1001_png,h1002_json,h1002_png,human2-1-1_png,human2-1-1_json,s04_png,s04_json,s14_json,s14_png",
+		"keys":"towersjson,ArrowShooter01png,ArrowShooter01json,ArrowShooter02png,ArrowShooter02json,ArrowShooter031png,ArrowShooter031json,ArrowShooter032png,ArrowShooter032json,Arrow01png,Arrow01json,Arrow032png,Arrow032json,MagicBullet010203png,MagicBullet010203json,MagicWizard010203png,MagicWizard010203json,Explo01png,Explo01json,Explo02png,Explo02json,Explo031png,Explo031json,ExploTower01json,ExploTower01png,ExploTower02json,ExploTower02png,ExploTower031json,ExploTower031png,ZenYuan1json,ZenYuan1png,ZenYuan2json,ZenYuan2png,human1-1png,human1-1json,human1-2png,human1-2json,human2-1_json,human2-1_png,human2-2_json,human2-2_png,human2-3_json,human2-3_png,human3-1_json,human3-1_png,human3-2_json,human3-2_png,h2001_json,h2001_png,h1001_json,h1001_png,h1002_json,h1002_png,human2-1-1_png,human2-1-1_json,s04_png,s04_json,s14_json,s14_png,M04_png,M04_json",
 		"name":"towerLoad"
 	},
 	{
@@ -940,5 +940,20 @@
 		"name":"levelUpwoman_mp3",
 		"type":"sound",
 		"url":"assets/sound/levelUpwoman.mp3"
+	},
+	{
+		"name":"M04_png",
+		"type":"image",
+		"url":"assets/soilders/M04.png"
+	},
+	{
+		"name":"M04_json",
+		"type":"json",
+		"url":"assets/soilders/M04.json"
+	},
+	{
+		"name":"battle_fnt",
+		"type":"font",
+		"url":"assets/battle.fnt"
 	}]
 }

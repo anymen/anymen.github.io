@@ -13,7 +13,7 @@
 		"name":"maps"
 	},
 	{
-		"keys":"buildTooljson,Base02,Base03,uiinfo,mb,victory,lose,tryagain,quitgame,NumFont,NumFont2,NumFont3,lifeBarBg,lifeBar,stone1png,stone1json,NumFont4_fnt,bar_json,attack_png,battle_fnt",
+		"keys":"buildTooljson,Base02,Base03,uiinfo,mb,victory,lose,tryagain,quitgame,NumFont,NumFont2,NumFont3,lifeBarBg,lifeBar,stone1png,stone1json,NumFont4_fnt,bar_json,attack_png,battle_fnt,talk",
 		"name":"uiLoad"
 	},
 	{
@@ -25,11 +25,11 @@
 		"name":"towerLoad"
 	},
 	{
-		"keys":"victorysd,bo_start,select,sell_tower,arrow_fire1,arrow_fire2,arrow_hit1,arrow_hit2,explo_firestart1,explo_fireend1,magic_fire1,shield_fire1,shield_fire2,shield_fire3,monster_die1,monster_die2,monster_die3,monster_die4,arrow_ready1,arrow_ready2,arrow_ready3,shield_ready1,shield_ready2,shield_ready3,magic_ready1,magic_ready2,magic_ready3,explo_ready1,explo_ready2,explo_ready3,levelUpMan_mp3,levelUpwoman_mp3",
+		"keys":"victorysd,bo_start,select,sell_tower,arrow_fire1,arrow_fire2,arrow_hit1,arrow_hit2,explo_firestart1,explo_fireend1,magic_fire1,shield_fire1,shield_fire2,shield_fire3,monster_die1,monster_die2,monster_die3,monster_die4,arrow_ready1,arrow_ready2,arrow_ready3,shield_ready1,shield_ready2,shield_ready3,magic_ready1,magic_ready2,magic_ready3,explo_ready1,explo_ready2,explo_ready3,levelUpMan_mp3,levelUpwoman_mp3,Thanks,WellPlayed,sorry,quick",
 		"name":"soundLoad"
 	},
 	{
-		"keys":"map0,map0json,map0bg,cuizi",
+		"keys":"map0,map0bg,cuizi",
 		"name":"guanka01load"
 	},
 	{
@@ -955,5 +955,34 @@
 		"name":"battle_fnt",
 		"type":"font",
 		"url":"assets/battle.fnt"
+	},
+	{
+		"name":"Thanks",
+		"soundType":"effect",
+		"type":"sound",
+		"url":"assets/sound/Thanks.MP3"
+	},
+	{
+		"name":"WellPlayed",
+		"soundType":"effect",
+		"type":"sound",
+		"url":"assets/sound/WellPlayed.MP3"
+	},
+	{
+		"name":"sorry",
+		"soundType":"effect",
+		"type":"sound",
+		"url":"assets/sound/sorry.MP3"
+	},
+	{
+		"name":"quick",
+		"soundType":"effect",
+		"type":"sound",
+		"url":"assets/sound/quick.mp3"
+	},
+	{
+		"name":"talk",
+		"type":"image",
+		"url":"assets/talk.png"
 	}]
 }

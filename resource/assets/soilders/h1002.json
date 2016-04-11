@@ -1,6 +1,6 @@
 {"mc":{
 	"h1002":{
-		"frameRate":8,
+		"frameRate":12,
 		"labels":[
 			{"name":"idle","frame":1,"end":1}
 			,{"name":"walking","frame":2,"end":5}

@@ -13,7 +13,7 @@
 		"name":"maps"
 	},
 	{
-		"keys":"buildTooljson,Base02,Base03,uiinfo,mb,victory,lose,tryagain,quitgame,NumFont,NumFont2,NumFont3,lifeBarBg,lifeBar,stone1png,stone1json,NumFont4_fnt,bar_json,attack_png,battle_fnt,talk",
+		"keys":"buildTooljson,Base02,Base03,uiinfo,mb,victory,lose,tryagain,quitgame,NumFont,NumFont2,NumFont3,lifeBarBg,lifeBar,stone1png,stone1json,NumFont4_fnt,bar_json,attack_png,battle_fnt,talk,rebuild_png",
 		"name":"uiLoad"
 	},
 	{
@@ -984,5 +984,10 @@
 		"name":"talk",
 		"type":"image",
 		"url":"assets/talk.png"
+	},
+	{
+		"name":"rebuild_png",
+		"type":"image",
+		"url":"assets/rebuild.png"
 	}]
 }

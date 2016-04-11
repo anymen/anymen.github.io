@@ -1,6 +1,6 @@
 {"mc":{
 	"ShieldSoldier01":{
-		"frameRate":10,
+		"frameRate":12,
 		"labels":[
 			{"name":"idle","frame":1,"end":1}
 			,{"name":"running","frame":2,"end":5}
